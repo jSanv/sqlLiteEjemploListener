@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sqlLiteEjemplo</string>
+    <string name="txtcodigo"> Codigo del producto</string>
+    <string name="txtnombre"> Nombre del producto</string>
+    <string name="txtprecio"> Precio del producto </string>
+    <string name="btnregistrar">Registrar Producto</string>
+    <string name="btnbuscar"> Buscar Producto</string>
+    <string name="btneliminar"> Eliminar Producto</string>
+    <string name="btnmodificar"> Modificar Producto</string>
+</resources>
